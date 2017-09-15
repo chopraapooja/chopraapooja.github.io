@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kick-start on Pooja Chopra</title>
+    <link>https://chopraapooja.github.io/categories/kick-start/</link>
+    <description>Recent content in Kick-start on Pooja Chopra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 15 Sep 2017 11:34:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://chopraapooja.github.io/categories/kick-start/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://chopraapooja.github.io/post/first-post/</link>
+      <pubDate>Fri, 15 Sep 2017 11:34:20 +0530</pubDate>
+      
+      <guid>https://chopraapooja.github.io/post/first-post/</guid>
+      <description>Let&amp;rsquo;s start writing down something. Writing down stuff is great way to relief brain from heavy-lifting thoughts. And anyways our brain is not to hold old thoughts it is supposed to keep having new ones.
+Great thanks to this post https://fillmem.com/post/fast-secured-and-free-static-site/ to help me run this website.</description>
+    </item>
+    
+  </channel>
+</rss>
