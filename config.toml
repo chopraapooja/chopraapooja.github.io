@@ -13,7 +13,7 @@ preserveTaxonomyNames = true
 [params]
   description = "All about Pooja Chopra"
   dateFormat = "2006, Jan 2"
-  copyrightOwner = "MunifTanjim"
+  copyrightOwner = "chopraapooja"
   copyrightStartYear = "2017"
   favicon = "favicon.ico"
   hideEntryNavigation = false
@@ -39,13 +39,13 @@ preserveTaxonomyNames = true
   facebook = ""
 
 [author]
-  name = "Minimo"
+  name = "Pooja Chopra"
 
 [author.social]
   codepen = "chopraapooja"
   email = "chopraapooja@gmail.com"
-  facebook = "https://www.facebook.com/pooja.chopra.1213"
-  github = "github.com/chopraapooja"
+  facebook = "pooja.chopra.1213"
+  github = "chopraapooja"
   instagram = "chopraapooja"
   twitter = "chopraapooja"
   linkedin = "chopraapooja"
